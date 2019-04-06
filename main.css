@@ -1,0 +1,45 @@
+
+body {
+	background-color: #aeddcd;
+	}
+h1{
+	font-size: 50px;
+	font-weight: bold;
+	color: red;
+	font-family: Times new roman;
+	text-align: center;
+	
+}    
+h2{
+	font-size: 40px;
+	font-weight: bold;
+	color: blue; 
+	font-family: Arial;
+	text-decoration: underline;
+
+}  
+p {font-style: italic;
+	margin: 20px;
+	}  
+div {
+	width: 50%;
+	margin: auto;
+	padding:50px;
+	box-shadow:  10px 1px 10px 1px rgba(6,0,0,0.3) ;
+	background-color: white;
+	
+}
+img {
+	max-width: 100%;
+}
+
+ul {list-style-image: url("img/marker1.gif") ;
+}
+ol {list-style-image: url("img/marker2.png");}
+
+
+a {text-decoration: none;
+	font-size: 20px;
+	color: tomato;	
+	}
+a:hover {color:green;}
